@@ -69,8 +69,8 @@ const kingsley = {
 
 # GitHub stats
 
-[![Kingsley Arinze stats](https://github-readme-stats.vercel.app/api?username=rivasbolinga&show_icons=true&theme=buefy&bg_color=faf5fa)](https://github.com/rivasbolinga/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivasbolinga&show_icons=true&theme=buefy&bg_color=faf5fa)](https://github.com/rivasbolinga/github-readme-stats)
+[![Kingsley Arinze stats](https://github-readme-stats.vercel.app/api?username=KizoDev&show_icons=true&theme=buefy&bg_color=faf5fa)](https://github.com/KizoDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KizoDev&show_icons=true&theme=buefy&bg_color=faf5fa)](https://github.com/KizoDev/github-readme-stats)
   
  # Show your support! ⭐
   Thank you for visiting my profile, if you like any of my projects, I appreciate your support giving a :star:.
