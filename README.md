@@ -2,7 +2,7 @@
   
 <div align="left">
   
-![Hi there! I'm Kingsley Arinze (1)](https://user-images.githubusercontent.com/103900838/214040077-ac88aee3-3f8c-49e3-a613-40d283e68d02.png)
+![Hi there! I'm Kingsley Arinze (1)]
 
 
 </div>
@@ -16,14 +16,12 @@
  # A bit about me
  
 ```javascript
-const Henry = {
+const kingsley = {
   fullName: "Kingsley Arinze Ugwu",
-  studentAt: "Microverse",
-  currentlyLearning: Javascript,
-  vision: "Working for the top ten Tech companies in the world within first 5years of my career",
-  lookingFor: "Back-end development opportunities" || "Full-stack web developement",
-  techStack: [JavaScript, HTML/CSS,Bootstrap],
-  tools: [Git, Github, Figma, Webpack,Jest],
+  Gmail: "kingsleyarinzeugwu@gmail.com",
+  lookingFor: "Back-end development opportunities",
+  techStack: [JavaScript, HTML/CSS,Nodejs, Expressjs],
+  tools: [Git, Github,mocha],
   askMeAbout: ["Back-End web dev"],
   telephoneNumber: "+2347039115236",
   hobbies: [ "playing chess", "Discussing Ideas"]
