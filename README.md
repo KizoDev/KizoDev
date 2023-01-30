@@ -26,6 +26,7 @@ const kingsley = {
   telephoneNumber: "+2347039115236",
   hobbies: [ "playing chess", "Discussing Ideas"]
 }
+```
 # Knowledge base
 
 ### Languages
