@@ -6,7 +6,7 @@ Hi, I'm kingsley Arinze!
 	</a>
 </h1>
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7855B&width=435&lines=Full-Backend+Developer+;Open+to+new+opportunities." alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7855B&width=435&lines=Backend+Developer+Open+to+new+opportunities." alt="Typing SVG" /></a>
   </p>
 
   <div id="header" align="center">
@@ -29,15 +29,13 @@ const kingsley = {
   fullName: "Kingsley Arinze Ugwu",
   Gmail: "kingsleyarinzeugwu@gmail.com",
   lookingFor: "Back-end development opportunities",
-  techStack: [JavaScript, HTML/CSS,Nodejs, Expressjs],
+  techStack: [,Nodejs, Expressjs, JavaScript, HTML/CSS],
   tools: [Git, Github,mocha],
   askMeAbout: ["Back-End web dev"],
   telephoneNumber: "+2347039115236",
   hobbies: [ "playing chess", "Discussing Ideas"]
 }
 ```
-
-//# GitHub stats
 
 <!-- [![Kingsley Arinze stats](https://github-readme-stats.vercel.app/api?username=KizoDev&show_icons=true&theme=buefy&bg_color=faf5fa)](https://github.com/KizoDev/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KizoDev&show_icons=true&theme=buefy&bg_color=faf5fa)](https://github.com/KizoDev/github-readme-stats)
