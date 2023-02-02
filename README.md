@@ -30,7 +30,7 @@ const kingsley = {
   Gmail: "kingsleyarinzeugwu@gmail.com",
   lookingFor: "Back-end development opportunities",
   techStack: [,Nodejs, Expressjs, JavaScript, HTML/CSS],
-  tools: [Git, Github,mongodb],
+  tools: [Git, Github, Mongodb],
   askMeAbout: ["Back-End web dev"],
   telephoneNumber: "+2347039115236",
   hobbies: [ "playing chess", "Discussing Ideas"]
